@@ -28,6 +28,19 @@
 
 ---
 
+---
+
+### 📚 freeCodeCamp Progress
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/D_Wegner)
+
+- ✅ Responsive Web Design
+- 🔄 JavaScript Algorithms and Data Structures (in progress)
+- 🔄 Full Stack Developer (in progress)
+
+---
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duane-wegner)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duane.wegner@gmail.com)
+
