@@ -34,9 +34,12 @@
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/D_Wegner)
 
-- ✅ Responsive Web Design
-- 🔄 JavaScript Algorithms and Data Structures (in progress)
-- 🔄 Full Stack Developer (in progress)
+## 📜 freeCodeCamp Certifications
+
+- ✅ [![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-E34F26?style=flat&logo=html5&logoColor=white)](https://www.freecodecamp.org/certification/D_Wegner/responsive-web-design)
+- 🔄 ![JavaScript](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-F7DF1E?style=flat&logo=javascript&logoColor=black) (in progress)
+- 🔄 ![Node.js](https://img.shields.io/badge/Full_Stack_Developer-339933?style=flat&js&logoColor=white) (in progress)
+
 
 ---
 
