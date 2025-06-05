@@ -28,13 +28,11 @@
 
 ---
 
----
-
-### 📚 freeCodeCamp Progress
+## 📚 freeCodeCamp Progress
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/D_Wegner)
 
-## 📜 freeCodeCamp Certifications
+#### 📜 freeCodeCamp Certifications
 
 - ✅ [![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-E34F26?style=flat&logo=html5&logoColor=white)](https://www.freecodecamp.org/certification/D_Wegner/responsive-web-design)
 - 🔄 ![JavaScript](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-F7DF1E?style=flat&logo=javascript&logoColor=black) (in progress)
