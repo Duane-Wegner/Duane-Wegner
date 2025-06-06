@@ -19,12 +19,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duane-Wegner&layout=compact&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duane-Wegner&layout=compact&theme=radical)](https://github.com/Duane-Wegner) 
 
 ---
 
 ### 💡 LeetCode Activity
-![LeetCode Stats](https://leetcard.jacoblin.cool/Duane_Wegner?theme=dark&font=Baloo)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Duane_Wegner)](https://leetcode.com/Duane_Wegner/)
 
 ---
 
