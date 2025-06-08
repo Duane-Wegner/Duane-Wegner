@@ -30,11 +30,25 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Git Bash](https://img.shields.io/badge/Git%20Bash-000000?style=flat&logo=git&logoColor=white)  
 
 #### 🖥️ IDEs & Environments  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij%20idea&logoColor=white)  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+
+- **Microsoft IDEs:**  
+  - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)  
+  - ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)  
+
+- **JetBrains IDEs:**  
+  - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
+  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij%20idea&logoColor=white)  
+  - ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)  
+
+- **Other IDEs:**  
+  - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
+  - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+
+
 
 ---
 
-### 📊 GitHub Stats
+ ###  📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duane-Wegner&layout=compact&theme=radical)](https://github.com/Duane-Wegner) 
 
 ---
