@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Duane Wegner
+# 👋 Hi, I’m DEV Duane
 
 - 🇺🇸 Veteran (25B) & problem solver with military precision | CS student - SNHU '25
 - 👀 Interested in front-end web development with a future in full-stack.
