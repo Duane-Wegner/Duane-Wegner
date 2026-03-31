@@ -53,11 +53,6 @@
 
 ---
 
-### 💡 LeetCode Activity
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Duane_Wegner)](https://leetcode.com/Duane_Wegner/)
-
----
-
 ## 📚 freeCodeCamp Progress
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/D_Wegner)
